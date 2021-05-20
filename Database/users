@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "60a601bbd92f403318d6c595"
+  },
+  "name": "Nikita",
+  "email": "nikita@yopmail.com",
+  "mobileNumber": "9874561231",
+  "password": "$2a$10$SwXEvp./nkMykm2N2CXFduboDHHzW288PMOzLcQWR0gharFM8XmlC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a60508d92f403318d6c597"
+  },
+  "name": "Nikita Mahajan",
+  "email": "mrs.mahajan97@gmail.com",
+  "mobileNumber": "9874561230",
+  "password": "$2a$10$X9wGLTHQ0CK5iO.hf0yK8OuL3iZFs2sbp33G9HgRbQqq25Pk2ROZO",
+  "__v": 0
+}]
